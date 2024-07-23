@@ -1,0 +1,361 @@
+Order time,Pickup address,Ride price,Booking fee,Toll fee,Cancellation fee,Tip,Currency,Payment method,Payment time,Distance,State
+01.07.2024 23:28,"Bažnyčios gatvė 154349, Domeikava 54349",13.2,0.0,0.0,0.0,0.0,€,Bolt Payment,01.07.2024 23:52,14.66,Finished
+01.07.2024 23:18,"Baltų pr 105, Kaunas 48207",3.0,0.0,0.0,0.0,0.5,€,Bolt Payment,01.07.2024 23:28,2.32,Finished
+01.07.2024 23:11,"Tilžės g 8, Каунас 47181",3.8,0.0,0.0,0.0,0.0,€,Bolt Payment,01.07.2024 23:20,2.49,Finished
+01.07.2024 23:04,"Baltų pr 13, Kaunas 48236",4.0,0.0,0.0,0.0,0.0,€,Bolt Payment,01.07.2024 23:12,2.13,Finished
+01.07.2024 22:45,"Gatvė Ugnės 50, Kaunas",4.5,0.0,0.0,0.0,0.0,€,Cash,01.07.2024 22:59,4.52,Finished
+01.07.2024 22:16,"Gatvė Kęstučio 54, Kaunas LT-44305",16.5,0.0,0.0,0.0,3.0,€,Bolt Payment,01.07.2024 22:44,9.73,Finished
+01.07.2024 22:06,"Gatvė Jonavos 282, Kaunas LT-44131",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,01.07.2024 22:14,1.42,Finished
+01.07.2024 21:41,"Gatvė Suopių 60B, Kaunas LT-54340",6.5,0.0,0.0,0.0,0.0,€,Cash,01.07.2024 22:04,5.94,Finished
+01.07.2024 01:43,"Laisvės al 42, Каунас 44246",4.9,0.0,0.0,0.0,0.0,€,Bolt Payment,01.07.2024 01:57,4.9,Finished
+01.07.2024 01:28,"Gatvė S. Daukanto 8, Kaunas LT-44308",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,01.07.2024 01:44,1.95,Finished
+01.07.2024 01:11,"Savanorių pr 346, Kaunas 49428",7.8,0.0,0.0,0.0,0.0,€,Bolt Payment,01.07.2024 01:30,9.68,Finished
+01.07.2024 00:11,"Uosių g 8, Kaišiadorių rajono savivaldybė",13.3,0.0,0.0,0.0,0.0,€,Cash,01.07.2024 00:36,8.93,Finished
+30.06.2024 23:58,"Gatvė Beržų 45, Kaunas LT-54467",6.2,0.0,0.0,0.0,0.0,€,Cash,01.07.2024 00:13,6.56,Finished
+30.06.2024 23:45," Injury and Emergency Center, Hospital of Lithuanian University of Health Sciences",7.9,0.0,0.0,0.0,0.0,€,Cash,01.07.2024 00:00,10.52,Finished
+30.06.2024 23:27,"Prospektas Karaliaus Mindaugo 18, Kaunas LT-44295",5.3,0.0,0.0,0.0,0.0,€,Bolt Payment,30.06.2024 23:42,5.08,Finished
+30.06.2024 23:05,"Ateities pl 30N, Каунас 52163",6.6,0.0,0.0,0.0,0.0,€,Cash,30.06.2024 23:28,8.88,Finished
+30.06.2024 22:41,"Aikštė Rotušės 29, Kaunas LT-44279",6.6,0.0,0.0,0.0,0.0,€,Cash,30.06.2024 23:02,8.01,Finished
+30.06.2024 22:26,"Prospektas Savanorių 375, Kaunas LT-49360",4.4,0.0,0.0,0.0,0.0,€,Bolt Payment,30.06.2024 22:37,4.91,Finished
+30.06.2024 22:10,"Jonavos g 40B, Kaunas",5.4,0.0,0.0,0.0,0.0,€,Bolt Payment,30.06.2024 22:27,6.47,Finished
+30.06.2024 21:57,"Chemijos g 4, Kaunas 51346",5.0,0.0,0.0,0.0,0.0,€,Cash,30.06.2024 22:09,5.52,Finished
+30.06.2024 21:24,"Centrinis įėjimas, Mega",9.8,0.0,0.0,0.0,0.0,€,Bolt Payment,30.06.2024 21:49,10.88,Finished
+29.06.2024 02:26,"Karaliaus Mindaugo Prospektas 54, Kaunas 44351",21.2,0.0,0.0,0.0,0.0,€,Bolt Payment,29.06.2024 02:53,10.3,Finished
+29.06.2024 02:20,"Laisvės al 86, Каунас 44250",5.8,0.0,0.0,0.0,0.0,€,Cash,29.06.2024 02:28,1.11,Finished
+29.06.2024 02:07,"Karaliaus Mindaugo pr 54, Kaunas 44351",5.8,0.0,0.0,0.0,0.0,€,Bolt Payment,29.06.2024 02:21,1.98,Finished
+29.06.2024 01:48,Prospektas Karaliaus Mindaugo 54,7.8,0.0,0.0,0.0,0.0,€,Bolt Payment,29.06.2024 02:12,3.2,Finished
+29.06.2024 01:23,"Gatvė Upės 2, Kaunas LT-54445",8.8,0.0,0.0,0.0,0.0,€,Bolt Payment,29.06.2024 01:55,10.16,Finished
+28.06.2024 23:59,"M. Gimbutienės gatvė 35, Kaunas 52337",10.1,0.0,0.0,0.0,0.0,€,Bolt Payment,29.06.2024 00:21,11.08,Finished
+28.06.2024 23:40,"Gatvė Žemaičių 3, Kaunas LT-44242",8.4,0.0,0.0,0.0,0.5,€,Bolt Payment,28.06.2024 23:55,7.49,Finished
+28.06.2024 23:14,"Jonavos g 282, Kaunas 44131",3.3,0.0,0.0,0.0,0.0,€,Bolt Payment,28.06.2024 23:24,3.16,Finished
+28.06.2024 19:31,"Karaliaus Mindaugo Prospektas 33, Kaunas 44303",4.6,0.0,0.0,0.0,0.0,€,Bolt Payment,28.06.2024 19:39,3.41,Finished
+28.06.2024 19:20,"Griundvaldo str., Akropolis",4.0,0.0,0.0,0.0,0.0,€,Cash,28.06.2024 19:27,1.4,Finished
+28.06.2024 19:09,"Titnago g 4, Kaunas 46235",5.5,0.0,0.0,0.0,0.0,€,Bolt Payment,28.06.2024 19:22,6.42,Finished
+28.06.2024 18:50,"Gatvė Vaidoto 122, Kaunas LT-45300",3.9,0.0,0.0,0.0,0.0,€,Cash,28.06.2024 19:02,4.29,Finished
+28.06.2024 18:25,"Skuodo g 33, Kaunas 45129",7.2,0.0,0.0,0.0,0.0,€,Cash,28.06.2024 18:42,7.13,Finished
+28.06.2024 17:57,"Gatvė Kruonio 5A, Kaunas LT-45372",4.8,0.0,0.0,0.0,0.0,€,Bolt Payment,28.06.2024 18:21,5.16,Finished
+28.06.2024 17:34,"Mosėdžio g 7, Kaunas",20.3,0.0,0.0,0.0,0.0,€,Bolt Payment,28.06.2024 17:59,10.84,Finished
+28.06.2024 17:24,"Pikulo g 72, Kaunas",3.9,0.0,0.0,0.0,0.0,€,Cash,28.06.2024 17:33,3.01,Finished
+28.06.2024 17:15,"Plungės g 20, Kaunas",2.9,0.0,0.0,0.0,0.0,€,Cash,28.06.2024 17:24,1.83,Finished
+28.06.2024 02:06,"Gatvė Kęstučio 54, Kaunas LT-44305",13.5,0.0,0.0,0.0,6.0,€,Bolt Payment,28.06.2024 02:22,6.99,Finished
+28.06.2024 01:54,"K. Donelaičio g 41, Kaunas 44245",3.8,0.0,0.0,0.0,0.0,€,Bolt Payment,28.06.2024 02:03,4.2,Finished
+28.06.2024 01:34,"R. Kalantos g 34A, Каунас",6.3,0.0,0.0,0.0,0.0,€,Bolt Payment,28.06.2024 01:50,7.15,Finished
+28.06.2024 01:25,"Saulės g 55, Kaunas 51371",2.9,0.0,0.0,0.0,0.0,€,Cash,28.06.2024 01:32,1.86,Finished
+28.06.2024 01:06,"Plentas Radvilėnų 17, Kaunas LT-50256",5.1,0.0,0.0,0.0,0.0,€,Cash,28.06.2024 01:17,5.04,Finished
+28.06.2024 00:53,"Elektrėnų g 8N, Kaunas 51221",4.3,0.0,0.0,0.0,0.0,€,Cash,28.06.2024 01:08,4.48,Finished
+28.06.2024 00:45,"Gatvė Skuodo 41, Kaunas LT-45128",4.8,0.0,0.0,0.0,0.0,€,Cash,28.06.2024 00:54,4.16,Finished
+28.06.2024 00:29,"Brastos g 19, Kaunas 47001",5.1,0.0,0.0,0.0,0.0,€,Bolt Payment,28.06.2024 00:42,7.71,Finished
+27.06.2024 23:45,"S. Daukanto g 10, Kaunas 44308",14.3,0.0,0.0,0.0,0.0,€,Bolt Payment,28.06.2024 00:19,15.47,Finished
+27.06.2024 22:55,"Plentas Radvilėnų 56, Kaunas",10.5,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 23:18,8.95,Finished
+27.06.2024 22:40,"Gatvė A. Jakšto 7, Kaunas LT-44279",4.5,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 22:52,4.46,Finished
+27.06.2024 22:25,"Taikos pr 113, Kaunas 50456",6.2,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 22:38,7.35,Finished
+27.06.2024 22:17,"Prospektas Taikos 31A, Kaunas LT-50229",4.0,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 22:23,2.47,Finished
+27.06.2024 21:44,"Vytenio g 21, Kaunas",5.6,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 21:58,6.21,Finished
+27.06.2024 19:14,"Ateities pl 4A, Kaunas 52322",2.9,0.0,0.0,0.0,0.0,€,Cash,27.06.2024 19:23,1.86,Finished
+27.06.2024 18:34,"Gatvė Aušros 13, Kaunas LT-44173",10.1,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 19:09,11.02,Finished
+27.06.2024 18:23,"K. Baršausko g 66A, Kaunas 51436",4.6,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 18:37,4.3,Finished
+27.06.2024 18:12,"A. Juozapavičiaus pr 31B, Kaunas 45257",3.2,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 18:20,3.2,Finished
+27.06.2024 17:40,"Žemaičių pl 56, Kaunas 48258",17.0,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 18:12,9.83,Finished
+27.06.2024 17:17,"Rūgštynių tak 25, Kaunas",7.9,0.0,0.0,0.0,0.0,€,Cash,27.06.2024 17:39,7.82,Finished
+27.06.2024 02:49,"Vytenio g 18, Kaunas 48418",7.7,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 03:11,4.65,Finished
+27.06.2024 02:43,"Taikos prospektas 37, Kaunas 50227",3.6,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 02:53,3.67,Finished
+27.06.2024 02:34,"Savanorių pr 377A, Kaunas",6.8,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 02:39,0.66,Finished
+27.06.2024 02:25,"Pakraščio g 35, Kaunas 49293",3.5,0.0,0.0,0.0,0.0,€,Cash,27.06.2024 02:34,1.48,Finished
+27.06.2024 02:17,"Rotušės a 10, Kaunas 44279",8.3,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 02:27,5.29,Finished
+27.06.2024 01:01,"Arrivals / Departures, Kaunas Airport (KUN)",18.8,1.5,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 01:29,23.08,Finished
+27.06.2024 00:45,"Savanorių Prospektas 377, Kaunas 49360",6.8,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 01:01,9.02,Finished
+27.06.2024 00:35,"Park Inn by Radisson Kaunas, K. Donelaičio g 27, Kaunas",5.7,0.0,0.0,0.0,0.0,€,Cash,27.06.2024 00:49,5.33,Finished
+27.06.2024 00:30,"Gatvė M. Daukšos 55, Kaunas LT-44269",5.0,0.0,0.0,0.0,0.0,€,Bolt Payment,27.06.2024 00:36,2.97,Finished
+26.06.2024 20:09,"Brastos gatvė 19, Kaunas 47183",4.3,0.0,0.0,0.0,0.0,€,Cash,26.06.2024 20:24,4.56,Finished
+26.06.2024 19:41,"Karaliaus Mindaugo Prospektas 38, Kaunas 44307",5.3,0.0,0.0,0.0,0.0,€,Bolt Payment,26.06.2024 20:00,5.62,Finished
+26.06.2024 19:33,"Gatvė Maironio 19, Kauen LT-44250",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,26.06.2024 19:40,1.0,Finished
+26.06.2024 19:15,"Demokratų g 3, Kaunas 48427",5.0,0.0,0.0,0.0,0.0,€,Bolt Payment,26.06.2024 19:29,4.71,Finished
+21.06.2024 23:00,"Gatvė Saulės 30, Kaunas LT-51366",2.9,0.0,0.0,0.0,0.0,€,Cash,21.06.2024 23:06,1.11,Finished
+21.06.2024 22:34,"Plentas Raudondvario 228, Каунас LT-47156",13.1,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 22:57,12.8,Finished
+21.06.2024 22:16,"Šventupės g 18, Kaunas 47300",5.3,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 22:32,6.33,Finished
+21.06.2024 21:55,"Gatvė S. Nėries 15, Kaunas",3.5,0.0,0.0,0.0,0.0,€,Cash,21.06.2024 22:09,4.21,Finished
+21.06.2024 21:41,"Girios g 37, Kaunas 54307",4.0,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 21:56,4.37,Finished
+21.06.2024 21:09,"Rimi Exit, Mega",3.6,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 21:22,3.65,Finished
+21.06.2024 15:33,"Gatvė Minties Rato 48A, Kaunas LT-50290",3.5,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 15:44,2.5,Finished
+21.06.2024 15:21,"Gatvė K. Donelaičio 71, Kaunas LT-44245",3.0,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 15:33,2.73,Finished
+21.06.2024 15:12,"Savanorių pr 321, Каунас 50120",3.6,0.0,0.0,0.0,0.0,€,Cash,21.06.2024 15:21,2.55,Finished
+21.06.2024 14:54,"Gatvė M. Mažvydo 18A, Kaunas LT-48337",4.8,0.0,0.0,0.0,0.0,€,Cash,21.06.2024 15:08,5.49,Finished
+21.06.2024 14:31,"Karaliaus Mindaugo Prospektas 31, Kaunas 44300",7.3,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 14:50,5.3,Finished
+21.06.2024 14:14,"K. Griniaus g 6, Kaunas",3.9,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 14:30,3.3,Finished
+21.06.2024 13:57,"Gatvė J. Gruodžio 17, Kaunas LT-44293",3.0,0.0,0.0,0.0,0.5,€,Bolt Payment,21.06.2024 14:05,2.01,Finished
+21.06.2024 13:35,"Gatvė Demokratų 42, Kaunas LT-48411",5.6,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 13:53,5.4,Finished
+21.06.2024 13:25,"Kulvos g 34, Kaunas 48487",3.8,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 13:35,3.56,Finished
+21.06.2024 02:42,"Gatvė T. Masiulio 10, Kaunas LT-52372",10.4,0.0,0.0,0.0,0.0,€,Cash,21.06.2024 03:03,14.09,Finished
+21.06.2024 02:14,"Z. Gerulaičio g 4, Kaunas",7.8,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 02:36,9.62,Finished
+21.06.2024 01:58,"Aikštė Rotušės 7, Kaunas LT-44280",4.8,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 02:07,2.96,Finished
+21.06.2024 01:45,"Pilies g 12, Kaunas 44275",3.4,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 01:57,3.03,Finished
+21.06.2024 01:26,"Aikštė Nepriklausomybės 10, Kaunas LT-44320",6.2,0.0,0.0,0.0,0.0,€,Bolt Payment,21.06.2024 01:38,5.98,Finished
+14.06.2024 15:19,"V. Kuzmos g 8, Kaunas 44280",6.9,0.0,0.0,0.0,0.5,€,Bolt Payment,14.06.2024 15:39,7.23,Finished
+14.06.2024 01:13,"Laisvės al 82, Kaunas 44250",3.9,0.0,0.0,0.0,0.0,€,Bolt Payment,14.06.2024 01:19,4.44,Finished
+14.06.2024 00:45,"Savanorių pr 377, Каунас 49360",3.5,0.0,0.0,0.0,0.0,€,Bolt Payment,14.06.2024 00:54,3.93,Finished
+14.06.2024 00:32,"Draugystės g 5D, Kaunas 51284",3.0,0.0,0.0,0.0,0.0,€,Bolt Payment,14.06.2024 00:45,2.87,Finished
+14.06.2024 00:19,"Pramonės pr 36A, Kaunas",6.4,0.0,0.0,0.0,0.0,€,Bolt Payment,14.06.2024 00:35,5.86,Finished
+13.06.2024 23:43,"Circle K, Circle K, Karaliaus Mindaugo pr.",19.5,0.0,0.0,0.0,0.0,€,Bolt Payment,14.06.2024 00:22,9.6,Finished
+13.06.2024 23:24,"Gatvė Kantališkių 22A, Kaunas LT-53331",7.0,0.0,0.0,0.0,0.0,€,Bolt Payment,13.06.2024 23:46,10.88,Finished
+13.06.2024 22:41,"Plentas Raudondvario 208, Kaunas LT-47154",11.0,0.0,0.0,0.0,0.0,€,Bolt Payment,13.06.2024 23:05,14.17,Finished
+13.06.2024 22:16,"Gatvė Žemynos 21, Kaunas LT-54381",10.1,0.0,0.0,0.0,0.0,€,Cash,13.06.2024 22:40,14.04,Finished
+13.06.2024 22:06,"Gatvė Pikulo 55, Kaunas",7.8,0.0,0.0,0.0,0.0,€,Bolt Payment,13.06.2024 22:19,10.16,Finished
+13.06.2024 21:19,"Centrinis įėjimas, Mega",9.7,0.0,0.0,0.0,0.0,€,Bolt Payment,13.06.2024 21:35,5.66,Finished
+13.06.2024 03:12,"Gatvė Nemuno 45, Kaunas LT-44288",5.3,0.0,0.0,0.0,0.0,€,Cash,13.06.2024 03:26,4.39,Finished
+13.06.2024 02:49,"Baltų pr 81, Kaunas 48231",6.7,0.0,0.0,0.0,0.0,€,Bolt Payment,13.06.2024 03:01,7.55,Finished
+13.06.2024 02:18,"Prospektas Pramonės 45, Kaunas LT-50464",12.3,0.0,0.0,0.0,0.0,€,Cash,13.06.2024 02:42,13.77,Finished
+13.06.2024 02:02,"Pramonės pr 16A, Kaunas",2.9,0.0,0.0,0.0,0.0,€,Cash,13.06.2024 02:14,2.33,Finished
+13.06.2024 01:44,"Nepriklausomybės a 3, Kaunas 44320",7.1,0.0,0.0,0.0,0.0,€,Bolt Payment,13.06.2024 02:02,6.82,Finished
+13.06.2024 01:35,"Circle K, Circle K, Karaliaus Mindaugo pr.",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,13.06.2024 01:43,1.9,Finished
+11.06.2024 23:00,"S. Daukanto g 16, Kaunas 44309",4.0,0.0,0.0,0.0,0.0,€,Cash,11.06.2024 23:16,3.56,Finished
+11.06.2024 22:44,"Kulvos g 13, Kaunas",4.6,0.0,0.0,0.0,0.0,€,Bolt Payment,11.06.2024 22:58,5.52,Finished
+11.06.2024 19:49,"Gatvė Demokratų 31, Kaunas LT-48493",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,11.06.2024 19:56,2.14,Finished
+11.06.2024 01:50,"Rytų g 21, Kaunas 51310",4.5,0.0,0.0,0.0,0.5,€,Bolt Payment,11.06.2024 02:01,4.92,Finished
+11.06.2024 01:33,"Gatvė Nemuno 45, Kaunas LT-44288",5.9,0.0,0.0,0.0,0.0,€,Cash,11.06.2024 01:46,5.09,Finished
+10.06.2024 22:07,"Aikštė Nepriklausomybės 10, Kaunas LT-44320",5.3,0.0,0.0,0.0,0.5,€,Bolt Payment,10.06.2024 22:23,5.5,Finished
+10.06.2024 21:54,"A. Mickevičiaus g 40B, Kaunas",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,10.06.2024 22:01,2.21,Finished
+10.06.2024 21:19,"Griundvaldo g., Akropolis",7.2,0.0,0.0,0.0,0.0,€,Cash,10.06.2024 21:35,3.1,Finished
+10.06.2024 21:06,"Išėjimas (nulinis aukštas), Žalgirio arena",3.8,0.0,0.0,0.0,0.0,€,Bolt Payment,10.06.2024 21:17,1.25,Finished
+08.06.2024 16:48,"Prospektas Sukilėlių 87B, Kaunas LT-49233",9.8,0.0,0.0,0.0,0.0,€,Cash,08.06.2024 17:04,8.39,Finished
+08.06.2024 03:42,"Gatvė Neries 24, Kaunas LT-54364",3.4,0.0,0.0,0.0,0.0,€,Cash,08.06.2024 04:02,3.32,Finished
+08.06.2024 03:23,"Laisvės al 93, Kaunas 44297",13.4,0.0,0.0,0.0,0.0,€,Cash,08.06.2024 03:43,8.48,Finished
+07.06.2024 18:39,"Gatvė Rasytės 20A, Kaunas LT-48120",7.3,0.0,0.0,0.0,0.0,€,Bolt Payment,07.06.2024 18:56,7.09,Finished
+07.06.2024 18:31,"Roundabout, Hospital of Lithuanian University of Health Sciences",4.6,0.0,0.0,0.0,0.0,€,Bolt Payment,07.06.2024 18:40,3.98,Finished
+07.06.2024 17:11,"Gatvė Gimnazijos 4, Kaunas LT-44290",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,07.06.2024 17:23,1.45,Finished
+07.06.2024 17:04,"Kaunas Railway station, Kaunas Railway Station",3.9,0.0,0.0,0.0,0.0,€,Bolt Payment,07.06.2024 17:14,3.28,Finished
+07.06.2024 16:54,"Gatvė K. Petrausko 15, Kaunas LT-44162",3.2,0.0,0.0,0.0,0.0,€,Bolt Payment,07.06.2024 17:06,2.49,Finished
+07.06.2024 16:46,"Gatvė P. Plechavičiaus 4, Kaunas LT-49302",3.8,0.0,0.0,0.0,0.0,€,Bolt Payment,07.06.2024 16:56,3.46,Finished
+07.06.2024 16:11,"Alėja Laisvės 80, Kaunas",10.0,0.0,0.0,0.0,0.0,€,Bolt Payment,07.06.2024 16:45,8.09,Finished
+07.06.2024 15:50,"Gatvė Papilio 3, Kaunas LT-44275",3.9,0.0,0.0,0.0,0.0,€,Bolt Payment,07.06.2024 16:05,2.72,Finished
+07.06.2024 15:32,"Gatvė Vytenio 20, Kaunas LT-48421",6.6,0.0,0.0,0.0,0.0,€,Bolt Payment,07.06.2024 15:49,5.59,Finished
+06.06.2024 19:15,"V. Lašo g 3, Kaunas",6.6,0.0,0.0,0.0,0.0,€,Bolt Payment,06.06.2024 19:31,7.68,Finished
+06.06.2024 19:03,"Prospektas Savanorių 346, Kaunas LT-49428",4.8,0.0,0.0,0.0,0.0,€,Bolt Payment,06.06.2024 19:13,4.69,Finished
+06.06.2024 18:45,"Chemijos g 5, Kaunas",8.9,0.0,0.0,0.0,0.0,€,Cash,06.06.2024 18:58,4.2,Finished
+06.06.2024 18:15,"Gatvė Partizanų 16, Kaunas LT-50212",7.6,0.0,0.0,0.0,0.0,€,Bolt Payment,06.06.2024 18:37,8.06,Finished
+06.06.2024 18:08,"P. Dovydaičio g 12, Kaunas 50175",2.9,0.0,0.0,0.0,0.5,€,Bolt Payment,06.06.2024 18:16,1.5,Finished
+06.06.2024 17:39,"K. Petrausko g 6, Каунас 44149",2.9,0.0,0.0,0.0,0.0,€,Cash,06.06.2024 17:52,1.82,Finished
+06.06.2024 17:26,"Žaibo g 11, Каунас 48287",5.3,0.0,0.0,0.0,0.0,€,Cash,06.06.2024 17:42,4.35,Finished
+06.06.2024 01:16,"Prospektas Baltų 12, Kaunas LT-48190",9.9,0.0,0.0,0.0,0.0,€,Bolt Payment,06.06.2024 01:34,11.32,Finished
+06.06.2024 00:49,"Gatvė Kalvarijos 49, Kaunas LT-46395",13.2,0.0,0.0,0.0,0.0,€,Cash,06.06.2024 01:16,14.98,Finished
+06.06.2024 00:28,"Kęstučio g 87, Kaunas 44299",9.8,0.0,0.0,0.0,0.0,€,Bolt Payment,06.06.2024 00:47,11.94,Finished
+06.06.2024 00:08,"V. Krėvės pr 111A, Kaunas",6.6,0.0,0.0,0.0,0.0,€,Bolt Payment,06.06.2024 00:23,7.92,Finished
+05.06.2024 23:44,"Kovo 11-osios g 130, Kaunas 49385",7.9,0.0,0.0,0.0,1.0,€,Bolt Payment,05.06.2024 23:58,11.22,Finished
+05.06.2024 23:26,"Panerių g 51, Kaunas",6.2,0.0,0.0,0.0,0.0,€,Bolt Payment,05.06.2024 23:41,7.48,Finished
+05.06.2024 23:10,"Baltų pr 18, Kaunas 48192",4.9,0.0,0.0,0.0,0.0,€,Bolt Payment,05.06.2024 23:25,4.85,Finished
+05.06.2024 22:15,"K. Petrausko g 33, Kaunas 44162",5.8,0.0,0.0,0.0,0.0,€,Bolt Payment,05.06.2024 22:27,6.99,Finished
+05.06.2024 22:06,"Gatvė Molėtų 6, Kaunas LT-50177",4.0,0.0,0.0,0.0,0.0,€,Cash,05.06.2024 22:13,1.44,Finished
+05.06.2024 21:47,"A. Mackevičiaus g 42, Kaunas 44258",6.9,0.0,0.0,0.0,0.0,€,Cash,05.06.2024 21:58,3.1,Finished
+05.06.2024 21:29,"K. Baršausko gatvė 57, Kaunas 51423",5.3,0.0,0.0,0.0,0.0,€,Bolt Payment,05.06.2024 21:41,5.98,Finished
+05.06.2024 20:54,"Neries krantinė 15, Kaunas 48463",6.2,0.0,0.0,0.0,0.0,€,Cash,05.06.2024 21:14,8.0,Finished
+18.05.2024 02:48,"Karaliaus Mindaugo pr 18, Kaunas 44295",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,18.05.2024 02:55,0.85,Finished
+18.05.2024 02:13,"Gatvė Elektrėnų 27, Kaunas LT-51199",15.5,0.0,0.0,0.0,0.0,€,Bolt Payment,18.05.2024 02:42,8.05,Finished
+18.05.2024 01:49,"Vilniaus g 56, Kaunas 44289",11.0,0.0,0.0,0.0,0.0,€,Cash,18.05.2024 02:11,7.81,Finished
+18.05.2024 01:19,"Prospektas Savanorių 178, Kaunas LT-44150",9.2,0.0,0.0,0.0,0.0,€,Bolt Payment,18.05.2024 01:39,11.95,Finished
+18.05.2024 01:06,"Laisvės al 89, Kaunas 44297",5.5,0.0,0.0,0.0,0.0,€,Bolt Payment,18.05.2024 01:17,5.21,Finished
+13.05.2024 01:09,"Gatvė Aušros 15, Kaunas LT-44173",2.9,0.0,0.0,0.0,0.5,€,Bolt Payment,13.05.2024 01:15,1.21,Finished
+13.05.2024 01:04,"Totorių g 5, Kaunas",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,13.05.2024 01:09,1.22,Finished
+13.05.2024 00:47,"Gatvė Varduvos 35, Kaunas LT-50111",3.9,0.0,0.0,0.0,0.0,€,Bolt Payment,13.05.2024 00:58,3.65,Finished
+13.05.2024 00:33,"Kaunakiemio g 5, Kaunas 44351",4.6,0.0,0.0,0.0,0.0,€,Cash,13.05.2024 00:45,5.13,Finished
+13.05.2024 00:15,"Laisvės al 75, Каунас 44304",8.0,0.0,0.0,0.0,0.0,€,Cash,13.05.2024 00:28,2.05,Finished
+12.05.2024 23:57,"Alėja Laisvės 96, Kaunas LT-44251",6.9,0.0,0.0,0.0,0.0,€,Bolt Payment,13.05.2024 00:10,8.26,Finished
+12.05.2024 23:32,"Šiaulių g 40, Kaunas 44356",7.8,0.0,0.0,0.0,0.0,€,Bolt Payment,12.05.2024 23:44,3.4,Finished
+12.05.2024 23:13,"Exit (ground floor), Žalgirio arena",5.8,0.0,0.0,0.0,0.0,€,Bolt Payment,12.05.2024 23:31,1.32,Finished
+12.05.2024 22:50,"Prospektas Sukilėlių 89B, Kaunas LT-49233",3.4,0.0,0.0,0.0,0.0,€,Cash,12.05.2024 23:05,2.83,Finished
+12.05.2024 22:34,Ežero g 3,9.6,0.0,0.0,0.0,0.0,€,Bolt Payment,12.05.2024 22:48,13.37,Finished
+12.05.2024 22:21,"Kęstučio g 87, Kaunas 44299",5.6,0.0,0.0,0.0,0.0,€,Cash,12.05.2024 22:34,6.74,Finished
+12.05.2024 22:10,"Gatvė Kulvos 37, Kaunas LT-48487",4.8,0.0,0.0,0.0,0.0,€,Bolt Payment,12.05.2024 22:23,5.35,Finished
+12.05.2024 19:11,"Varnių g 39, Kaunas 48415",3.4,0.0,0.0,0.0,0.0,€,Bolt Payment,12.05.2024 19:18,2.62,Finished
+12.05.2024 18:27,"Gatvė Aldonos 23, Kaunas LT-48424",2.9,0.0,0.0,0.0,0.0,€,Cash,12.05.2024 18:37,1.78,Finished
+12.05.2024 04:55,"Kaunakiemio g 1A, Kaunas 44351",7.3,0.0,0.0,0.0,0.0,€,Bolt Payment,12.05.2024 05:17,9.34,Finished
+12.05.2024 04:26,"Gatvė Prūsų 35, Kaunas LT-47127",7.5,0.0,0.0,0.0,0.0,€,Bolt Payment,12.05.2024 04:56,9.12,Finished
+12.05.2024 04:20,"I. Kanto g 24, Kaunas 44296",9.0,0.0,0.0,0.0,0.0,€,Cash,12.05.2024 04:31,4.82,Finished
+12.05.2024 03:42,"Gatvė A. Škėmos 16, Kaunas LT-46442",10.1,0.0,0.0,0.0,0.0,€,Bolt Payment,12.05.2024 04:02,8.81,Finished
+10.05.2024 18:02,"Narsiečių g 20R, Kaunas 53273",7.0,0.0,0.0,0.0,0.0,€,Cash,10.05.2024 18:30,7.11,Finished
+10.05.2024 17:39,"Gatvė Jonavos 16, Kaunas LT-44269",7.0,0.0,0.0,0.0,0.0,€,Bolt Payment,10.05.2024 18:06,8.11,Finished
+10.05.2024 16:52,"S. Daukanto g 8, Kaunas 44308",4.5,0.0,0.0,0.0,0.0,€,Bolt Payment,10.05.2024 17:06,3.04,Finished
+10.05.2024 16:27,"Prospektas Baltų 21, Kaunas LT-48235",6.9,0.0,0.0,0.0,0.0,€,Bolt Payment,10.05.2024 16:51,7.5,Finished
+10.05.2024 13:27,"Rimi išėjimas, Mega",4.3,0.0,0.0,0.0,0.0,€,Cash,10.05.2024 13:40,4.34,Finished
+10.05.2024 11:27,"Gatvė K. Donelaičio 27, Kaunas LT-44240",7.3,0.0,0.0,0.0,0.0,€,Bolt Payment,10.05.2024 11:46,9.25,Finished
+10.05.2024 11:10,"Švyturio g 17, Kaunas",5.2,0.0,0.0,0.0,0.0,€,Bolt Payment,10.05.2024 11:27,4.36,Finished
+10.05.2024 00:43,"Švyturio g 8, Kaunas 48423",5.5,0.0,0.0,0.0,0.0,€,Bolt Payment,10.05.2024 00:58,7.45,Finished
+09.05.2024 14:34,"Pilėnų gatvė 5, Akademija 53356",5.3,0.0,0.0,0.0,3.0,€,Bolt Payment,09.05.2024 14:47,6.38,Finished
+08.05.2024 16:46,"Gatvė Demokratų 50, Kaunas LT-48406",5.4,0.0,0.0,0.0,0.0,€,Bolt Payment,08.05.2024 17:10,3.84,Finished
+06.05.2024 21:33,"Ramygalos g 9, Kaunas",7.0,0.0,0.0,0.0,0.0,€,Cash,06.05.2024 21:57,7.02,Finished
+20.04.2024 00:45,"Prospektas Karaliaus Mindaugo 26, Kaunas LT-44295",9.2,0.0,0.0,0.0,0.0,€,Bolt Payment,20.04.2024 00:59,8.66,Finished
+20.04.2024 00:14,"Saulėtekio g 5A, Kaunas 53365",8.8,0.0,0.0,0.0,0.0,€,Bolt Payment,20.04.2024 00:30,12.35,Finished
+20.04.2024 00:04,"Alyvų g 1, Kaunas",3.2,0.0,0.0,0.0,0.0,€,Bolt Payment,20.04.2024 00:13,3.14,Finished
+19.04.2024 23:51,"Tako g 7, Kaunas",6.8,0.0,0.0,0.0,0.0,€,Cash,20.04.2024 00:03,3.3,Finished
+19.04.2024 17:52,"Gatvė Muitinės 9, Kaunas LT-44280",6.7,0.0,0.0,0.0,0.0,€,Bolt Payment,19.04.2024 18:07,7.56,Finished
+19.04.2024 17:12,"V. Bičiūno g 57, Kaunas [town]",22.6,0.0,0.0,0.0,0.0,€,Bolt Payment,19.04.2024 17:50,19.2,Finished
+19.04.2024 16:56,"Demokratų g 38, Kaunas",3.6,0.0,0.0,0.0,0.0,€,Cash,19.04.2024 17:11,3.57,Finished
+17.04.2024 17:32,"Vėžaičių g 1, Kaunas",3.9,0.0,0.0,0.0,0.0,€,Cash,17.04.2024 17:42,3.89,Finished
+17.04.2024 17:12,"Gatvė Linkuvos 40, Kaunas LT-48351",6.8,0.0,0.0,0.0,0.0,€,Cash,17.04.2024 17:31,6.67,Finished
+15.04.2024 17:47,"Draugystės g 2, Каунас",7.9,0.0,0.0,0.0,0.0,€,Cash,15.04.2024 18:11,9.65,Finished
+15.04.2024 17:24,"Gatvė Kuršių 45B, Kaunas LT-48110",7.9,0.0,0.0,0.0,0.0,€,Bolt Payment,15.04.2024 17:43,9.97,Finished
+13.04.2024 18:29,"Gatvė Panerių 292, Kaunas LT-48447",10.6,0.0,0.0,0.0,0.0,€,Bolt Payment,13.04.2024 19:08,12.36,Finished
+13.04.2024 15:41,"Gatvė Birželio 23-iosios 18, Kaunas LT-49494",4.7,0.0,0.0,0.0,0.0,€,Cash,13.04.2024 16:00,4.75,Finished
+13.04.2024 15:17,"Gatvė Vasarvietės 23B, Kaunas LT-44105",7.6,0.0,0.0,0.0,0.0,€,Cash,13.04.2024 15:36,10.49,Finished
+12.04.2024 17:45,"Forum cinemas, Akropolis",4.0,0.0,0.0,0.0,0.0,€,Cash,12.04.2024 18:00,3.59,Finished
+12.04.2024 16:51,"Akligatvis Įkalnės 10, Kaunas LT-47163",14.9,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 17:41,12.43,Finished
+12.04.2024 03:50,"Plentas Raudondvario 120, Kaunas LT-47177",26.9,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 04:14,18.74,Finished
+12.04.2024 03:34,"Krantinė Neries 4, Kaunas",4.1,0.0,0.0,0.0,0.0,€,Cash,12.04.2024 03:46,4.2,Finished
+12.04.2024 03:11,"Gatvė Špokų 8, Kaunas LT-54341",3.9,0.0,0.0,0.0,0.0,€,Cash,12.04.2024 03:25,4.41,Finished
+12.04.2024 02:45,"Rotušės a 1, Kaunas 44280",4.4,0.0,0.0,0.0,0.0,€,Cash,12.04.2024 02:55,0.13,Finished
+12.04.2024 02:32,"Rotušės a 3, Kaunas 44280",3.4,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 02:42,3.16,Finished
+12.04.2024 02:02,"Aikštė Rotušės 29, Kaunas LT-44279",4.7,0.0,0.0,0.0,1.0,€,Bolt Payment,12.04.2024 02:21,5.3,Finished
+12.04.2024 01:57,"Savanorių pr 109, Kaunas 44208",2.9,0.0,0.0,0.0,3.0,€,Bolt Payment,12.04.2024 02:02,2.91,Finished
+12.04.2024 01:46,"Pilies g 7, Kaunas 44275",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 01:52,2.44,Finished
+12.04.2024 01:29,"J. Vienožinskio g 70I, Kaunas 48462",3.8,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 01:39,4.41,Finished
+12.04.2024 01:12,"Kampo g 27, Kaunas 50148",3.2,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 01:22,2.64,Finished
+12.04.2024 01:01,"Gatvė K. Donelaičio 7, Kaunas LT-44239",4.9,0.0,0.0,0.0,1.0,€,Bolt Payment,12.04.2024 01:10,3.91,Finished
+12.04.2024 00:53,"Vilniaus g 56, Kaunas 44289",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 00:59,2.32,Finished
+12.04.2024 00:42,"Aikštė Rotušės 7, Kaunas LT-44280",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 00:47,0.95,Finished
+12.04.2024 00:25,"Gatvė Kęstučio 54, Kaunas LT-44305",5.4,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 00:36,6.16,Finished
+12.04.2024 00:03,"Prospektas V. Krėvės 104S, Kaunas LT-50381",4.0,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 00:14,4.18,Finished
+11.04.2024 23:52,"Gatvė S. Daukanto 8, Kaunas LT-44308",11.1,0.0,0.0,0.0,0.0,€,Bolt Payment,12.04.2024 00:05,7.21,Finished
+11.04.2024 23:12,"Prospektas Sukilėlių 102P, Kaunas LT-49319",4.2,0.0,0.0,0.0,0.0,€,Bolt Payment,11.04.2024 23:26,4.42,Finished
+11.04.2024 23:03,"Pikulo g 184, Kaunas 48439",4.0,0.0,0.0,0.0,0.0,€,Cash,11.04.2024 23:11,4.17,Finished
+11.04.2024 22:46,"Šv. Gertrūdos g 22, Kaunas 44260",5.3,0.0,0.0,0.0,0.0,€,Cash,11.04.2024 23:00,6.71,Finished
+11.04.2024 22:32,"Raudondvario pl 178, Kaunas 47149",4.1,0.0,0.0,0.0,0.0,€,Bolt Payment,11.04.2024 22:44,4.72,Finished
+11.04.2024 22:22,"Karaliaus Mindaugo pr 8, Kaunas 44287",10.2,0.0,0.0,0.0,0.0,€,Bolt Payment,11.04.2024 22:33,6.24,Finished
+10.04.2024 21:03,Raudondvario pl 284A,4.5,0.0,0.0,0.0,0.0,€,Bolt Payment,11.04.2024 22:17,4.34,Finished
+11.04.2024 21:55,"Studentų gatvė 15, Akademija 53362",3.0,0.0,0.0,0.0,0.0,€,Bolt Payment,11.04.2024 22:02,3.51,Finished
+11.04.2024 21:42,"Centrinis įėjimas, Mega",6.2,0.0,0.0,0.0,0.0,€,Bolt Payment,11.04.2024 21:54,8.45,Finished
+11.04.2024 19:13,"Forto g 13A, Kaunas",8.2,0.0,0.0,0.0,0.0,€,Cash,11.04.2024 19:43,9.81,Finished
+11.04.2024 01:11,"Gatvė K. Petrausko 9, Kaunas LT-44150",5.4,0.0,0.0,0.0,0.0,€,Bolt Payment,11.04.2024 01:21,6.84,Finished
+11.04.2024 00:58,"Gatvė S. Daukanto 8, Kaunas LT-44308",7.9,0.0,0.0,0.0,0.0,€,Bolt Payment,11.04.2024 01:08,4.01,Finished
+10.04.2024 22:02,"Alėja Perkūno 4C, Kaunas LT-44221",5.8,0.0,0.0,0.0,0.0,€,Bolt Payment,10.04.2024 22:08,2.49,Finished
+10.04.2024 21:44,"Savanorių pr 168, Kaunas",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,10.04.2024 21:51,1.36,Finished
+10.04.2024 21:34,"Žaibo g 14A, Kaunas",4.0,0.0,0.0,0.0,0.0,€,Bolt Payment,10.04.2024 21:43,4.3,Finished
+10.04.2024 21:18,"Prospektas Baltų 21, Kaunas LT-48235",3.6,0.0,0.0,0.0,0.0,€,Cash,10.04.2024 21:33,2.14,Finished
+10.04.2024 20:56,"Vilties gatvė 151, Kaunas 46299",10.6,0.0,0.0,0.0,0.0,€,Bolt Payment,10.04.2024 21:14,14.44,Finished
+10.04.2024 20:31,"Prospektas Baltų 43, Kaunas LT-48234",8.6,0.0,0.0,0.0,0.0,€,Bolt Payment,10.04.2024 20:49,10.77,Finished
+06.04.2024 04:30,"Kaunakiemio g 5, Kaunas 44351",15.1,0.0,0.0,0.0,0.0,€,Bolt Payment,06.04.2024 04:54,19.83,Finished
+06.04.2024 04:05,"Kaunakiemio g 5, Kaunas 44351",17.5,0.0,0.0,0.0,0.0,€,Bolt Payment,06.04.2024 04:24,9.36,Finished
+06.04.2024 03:29,"Rotušės a 1, Kaunas 44280",28.6,0.0,0.0,0.0,0.0,€,Bolt Payment,06.04.2024 03:52,19.24,Finished
+06.04.2024 03:03,"Rasytės g 32, Kaunas",10.0,0.0,0.0,0.0,0.0,€,Bolt Payment,06.04.2024 03:21,8.05,Finished
+06.04.2024 02:24,"Rasytės g 40, Kaunas 48115",6.8,0.0,0.0,0.0,0.0,€,Bolt Payment,06.04.2024 02:42,7.12,Finished
+06.04.2024 02:03,"J. Pabrėžos g 35, Kaunas",9.1,0.0,0.0,0.0,0.0,€,Bolt Payment,06.04.2024 02:24,11.86,Finished
+06.04.2024 01:51,"Gatvė Bažnyčios 8, Каунас LT-44328",4.2,0.0,0.0,0.0,0.0,€,Bolt Payment,06.04.2024 01:59,4.81,Finished
+06.04.2024 01:41,"Takas Aušros 3, Kaunas LT-44211",8.0,0.0,0.0,0.0,0.0,€,Bolt Payment,06.04.2024 01:51,1.96,Finished
+06.04.2024 01:16,"Vaidoto g 129, Kaunas",4.1,0.0,0.0,0.0,0.0,€,Cash,06.04.2024 01:28,3.91,Finished
+06.04.2024 00:44,"Laisvės al 93, Kaunas 44297",9.3,0.0,0.0,0.0,0.0,€,Cash,06.04.2024 01:05,12.12,Finished
+06.04.2024 00:11,"Vaidoto g 26, Kaunas 45318",10.7,0.0,0.0,0.0,0.0,€,Bolt Payment,06.04.2024 00:31,14.12,Finished
+05.04.2024 23:43,"S. Žukausko g 5, Каунас",7.3,0.0,0.0,0.0,0.0,€,Cash,06.04.2024 00:02,8.4,Finished
+05.04.2024 23:41,"Savanorių pr 363, Kaunas 51480",4.0,0.0,0.0,4.0,0.0,€,Bolt Payment,05.04.2024 23:43,0.0,Client cancelled
+05.04.2024 23:29,"Jonavos g 30, Kaunas 44262",4.5,0.0,0.0,0.0,0.0,€,Bolt Payment,05.04.2024 23:38,4.96,Finished
+05.04.2024 23:00,"Medvėgalio g 9, Kaunas",5.6,0.0,0.0,0.0,0.0,€,Bolt Payment,05.04.2024 23:12,4.88,Finished
+05.04.2024 22:51,"Gatvė Draugystės 3C, Kaunas LT-51281",3.9,0.0,0.0,0.0,0.0,€,Cash,05.04.2024 23:02,4.28,Finished
+05.04.2024 22:39,"Radisson Hotel Kaunas, Gatvė K. Donelaičio 27, Kaunas",4.0,0.0,0.0,0.0,0.0,€,Bolt Payment,05.04.2024 22:47,3.78,Finished
+05.04.2024 22:19,"Vytenio g 22, Kaunas 48421",4.9,0.0,0.0,0.0,0.0,€,Bolt Payment,05.04.2024 22:31,4.84,Finished
+05.04.2024 19:02,"Šiltnamių g 36, Kaunas",6.7,0.0,0.0,0.0,0.0,€,Cash,05.04.2024 19:16,9.66,Finished
+05.04.2024 18:31,"Mėlynių g 13, Kaunas",9.5,0.0,0.0,0.0,0.0,€,Bolt Payment,05.04.2024 18:53,12.06,Finished
+05.04.2024 18:05,"Pramonės prospektas 16, Kaunas 51181",13.9,0.0,0.0,0.0,0.0,€,Cash,05.04.2024 18:28,14.33,Finished
+05.04.2024 17:44,"Gražinos g 4, Kaunas",5.7,0.0,0.0,0.0,0.0,€,Cash,05.04.2024 17:59,6.5,Finished
+05.04.2024 17:29,"Varnių g 38A, Kaunas",3.8,0.0,0.0,0.0,0.0,€,Cash,05.04.2024 17:37,3.71,Finished
+03.04.2024 22:56,"S. Žukausko g 11, Kaunas 49345",20.7,0.0,0.0,0.0,0.0,€,Bolt Payment,03.04.2024 23:32,24.64,Finished
+03.04.2024 22:39,"Gatvė K. Donelaičio 71, Kaunas LT-44245",4.7,0.0,0.0,0.0,0.0,€,Bolt Payment,03.04.2024 22:55,5.33,Finished
+03.04.2024 22:14,"Kranto al 54, Kaunas 45280",7.2,0.0,0.0,0.0,0.0,€,Bolt Payment,03.04.2024 22:33,7.19,Finished
+03.04.2024 19:13,"Alėja J. Basanavičiaus 34A, Kaunas LT-50247",4.5,0.0,0.0,0.0,1.0,€,Bolt Payment,03.04.2024 19:23,5.02,Finished
+03.04.2024 18:35,"Gatvė Gervėčių 1A, Kaunas LT-50152",4.9,0.0,0.0,0.0,0.0,€,Cash,03.04.2024 18:58,3.23,Finished
+03.04.2024 18:22,"K. Petrausko g. 19A, Kaunas, Kauno m. sav., Lietuva",3.3,0.0,0.0,0.0,0.0,€,Cash,03.04.2024 18:31,2.59,Finished
+03.04.2024 18:03,"Dujotiekio g 26A, Kaunas 51379",3.3,0.0,0.0,0.0,0.5,€,Bolt Payment,03.04.2024 18:12,3.12,Finished
+03.04.2024 17:49,"Kalniečių g 129, Kaunas 50180",4.0,0.0,0.0,0.0,0.5,€,Bolt Payment,03.04.2024 17:58,2.88,Finished
+03.04.2024 17:25,"Rietavo g 7A, Kaunas",6.3,0.0,0.0,0.0,0.0,€,Bolt Payment,03.04.2024 17:46,5.99,Finished
+03.04.2024 17:12,"Švyturio g 9, Kaunas 48423",5.8,0.0,0.0,0.0,0.0,€,Bolt Payment,03.04.2024 17:30,6.13,Finished
+30.03.2024 21:26,"Gatvė Girios 24, Kaunas LT-54307",10.2,0.0,0.0,0.0,0.0,€,Cash,30.03.2024 21:48,13.38,Finished
+30.03.2024 20:44,"Jotvingių g 15, Kaunas 48124",4.1,0.0,0.0,0.0,0.0,€,Cash,30.03.2024 20:56,4.45,Finished
+30.03.2024 05:26,"Aleksoto gatvė 3, Kaunas 44280",6.7,0.0,0.0,0.0,0.0,€,Cash,30.03.2024 05:42,9.0,Finished
+30.03.2024 04:50,"Prospektas Karaliaus Mindaugo 18, Kaunas LT-44295",10.2,0.0,0.0,0.0,0.0,€,Bolt Payment,30.03.2024 05:13,12.58,Finished
+30.03.2024 04:36,"Alėja Laisvės 57A, Kaunas LT-44305",7.2,0.0,0.0,0.0,0.0,€,Bolt Payment,30.03.2024 04:48,2.94,Finished
+30.03.2024 04:10,"Vilniaus g 52, Kaunas 44287",8.4,0.0,0.0,0.0,0.0,€,Bolt Payment,30.03.2024 04:19,5.93,Finished
+30.03.2024 03:57,"Karaliaus Mindaugo pr 18, Kaunas 44295",8.8,0.0,0.0,0.0,0.0,€,Bolt Payment,30.03.2024 04:06,3.76,Finished
+30.03.2024 03:31,"Alėja Laisvės 103, Kaunas LT-44291",9.3,0.0,0.0,0.0,0.0,€,Bolt Payment,30.03.2024 03:41,6.12,Finished
+30.03.2024 03:10,"Gatvė I. Kanto 22, Kaunas LT-44296",6.8,0.0,0.0,0.0,0.0,€,Bolt Payment,30.03.2024 03:23,6.89,Finished
+30.03.2024 02:47,"Gatvė I. Kanto 18, Kaunas LT-44296",10.1,0.0,0.0,0.0,0.0,€,Bolt Payment,30.03.2024 02:57,7.22,Finished
+30.03.2024 02:08,"Laisvės al 53, Kaunas 44309",15.4,0.0,0.0,0.0,0.0,€,Bolt Payment,30.03.2024 02:23,8.89,Finished
+30.03.2024 01:47,"Kiškių g 2, Kaunas",8.6,0.0,0.0,0.0,1.0,€,Bolt Payment,30.03.2024 02:08,8.16,Finished
+30.03.2024 01:06,"Alytaus g 27, Kaunas",9.6,0.0,0.0,0.0,0.0,€,Cash,30.03.2024 01:32,9.79,Finished
+30.03.2024 00:56,"Baltijos g 45, Kaunas 48298",2.9,0.0,0.0,0.0,0.0,€,Cash,30.03.2024 01:04,1.46,Finished
+30.03.2024 00:45,"Panerių g 248, Kaunas",3.6,0.0,0.0,0.0,0.0,€,Bolt Payment,30.03.2024 00:56,3.62,Finished
+29.03.2024 18:59,"Vytauto g 5, Kaunas",6.5,0.0,0.0,0.0,0.0,€,Bolt Payment,29.03.2024 19:19,7.08,Finished
+29.03.2024 18:43,"Gatvė Baltijos 20, Kaunas LT-48254",5.5,0.0,0.0,0.0,0.0,€,Bolt Payment,29.03.2024 18:57,4.69,Finished
+29.03.2024 15:35,"Gatvė Gamyklos 2, Kaunas LT-47460",4.1,0.0,0.0,0.0,3.0,€,Bolt Payment,29.03.2024 15:52,4.13,Finished
+29.03.2024 15:23,"Gatvė Obelynės 63, Kaunas LT-47401",3.6,0.0,0.0,0.0,0.0,€,Bolt Payment,29.03.2024 15:33,3.28,Finished
+28.03.2024 23:59,"Laisvės al 86, Kaunas 44250",10.8,0.0,0.0,0.0,0.0,€,Bolt Payment,29.03.2024 00:17,13.18,Finished
+28.03.2024 23:30,"Kauno geležinkelio stotis, Kauno geležinkelio stotis",7.2,0.0,0.0,0.0,0.0,€,Cash,28.03.2024 23:39,3.41,Finished
+28.03.2024 23:19,"Kaunakiemio g 40, Kaunas 44332",3.7,0.0,0.0,0.0,0.0,€,Cash,28.03.2024 23:30,2.47,Finished
+28.03.2024 23:06,"Gatvė Vasario 16-osios 4, Kaunas LT-44250",7.6,0.0,0.0,0.0,0.0,€,Bolt Payment,28.03.2024 23:15,2.61,Finished
+28.03.2024 22:50,"Birštono g 14, Kaunas 44288",8.1,0.0,0.0,0.0,0.0,€,Cash,28.03.2024 22:59,2.2,Finished
+28.03.2024 22:21,"Neries g 9, Kaunas 54368",6.4,0.0,0.0,0.0,0.0,€,Cash,28.03.2024 22:43,6.35,Finished
+28.03.2024 22:05,"Įgulos g 1C, Kaunas 47412",6.6,0.0,0.0,0.0,0.0,€,Cash,28.03.2024 22:26,4.44,Finished
+28.03.2024 21:52,"Gatvė Maironio 19, Kaunas LT-44250",7.0,0.0,0.0,0.0,0.0,€,Bolt Payment,28.03.2024 22:07,7.25,Finished
+28.03.2024 18:54,"Gatvė Iniciatorių 10, Kaunas LT-50166",6.2,0.0,0.0,0.0,0.0,€,Bolt Payment,28.03.2024 19:19,3.93,Finished
+28.03.2024 18:28,"Butrimonių g 5, Kaunas",5.9,0.0,0.0,0.0,0.0,€,Cash,28.03.2024 18:48,4.28,Finished
+28.03.2024 18:15,"Mituvos g 5, Kaunas 50134",2.9,0.0,0.0,0.0,0.0,€,Cash,28.03.2024 18:23,1.68,Finished
+28.03.2024 17:56,"Laisvės al 82, Kaunas 44250",4.5,0.0,0.0,0.0,0.0,€,Bolt Payment,28.03.2024 18:15,4.09,Finished
+28.03.2024 17:35,"Gatvė Kalniečių 202, Kaunas LT-50111",5.6,0.0,0.0,0.0,0.0,€,Bolt Payment,28.03.2024 17:55,4.89,Finished
+28.03.2024 17:19,"Ragučio g 13, Kaunas",4.0,0.0,0.0,0.0,0.0,€,Bolt Payment,28.03.2024 17:34,3.88,Finished
+28.03.2024 03:25,"Druskininkų g 9, Kaunas 44288",6.8,0.0,0.0,0.0,0.0,€,Bolt Payment,28.03.2024 03:36,6.49,Finished
+28.03.2024 03:07,"Gatvė L. Zamenhofo 5, Kaunas LT-44287",4.8,0.0,0.0,0.0,1.0,€,Bolt Payment,28.03.2024 03:16,5.13,Finished
+28.03.2024 02:52,"Muitinės g 1, Kaunas 44280",5.7,0.0,0.0,0.0,0.0,€,Bolt Payment,28.03.2024 03:00,1.92,Finished
+27.03.2024 19:39,"Gatvė H. Ir O. Minkovskių 41B, Kaunas LT-46213",3.9,0.0,0.0,0.0,0.0,€,Bolt Payment,27.03.2024 19:51,3.85,Finished
+27.03.2024 19:22,"Gatvė Parodos 18, Kaunas LT-44215",5.2,0.0,0.0,0.0,0.0,€,Bolt Payment,27.03.2024 19:34,5.65,Finished
+27.03.2024 19:04,"Gatvė Papilio 3, Kaunas LT-44275",3.6,0.0,0.0,0.0,0.0,€,Bolt Payment,27.03.2024 19:14,2.7,Finished
+27.03.2024 18:34,"Miškinio g 23, Kaunas 48308",6.0,0.0,0.0,0.0,0.0,€,Bolt Payment,27.03.2024 18:48,3.84,Finished
+27.03.2024 02:53,"Brastos g 10, Каунас 47184",5.2,0.0,0.0,0.0,0.0,€,Bolt Payment,27.03.2024 03:06,6.2,Finished
+27.03.2024 02:47,"Linkuvos g 55, Kaunas 48327",3.1,0.0,0.0,0.0,0.0,€,Cash,27.03.2024 02:54,2.42,Finished
+26.03.2024 20:04,"Marvelės gatvė 1A, Kaunas 46209",5.2,0.0,0.0,0.0,0.0,€,Bolt Payment,26.03.2024 20:20,4.55,Finished
+26.03.2024 19:33,"Gatvė Maironiškių 18, Kaunas LT-48183",7.4,0.0,0.0,0.0,1.0,€,Bolt Payment,26.03.2024 19:52,7.02,Finished
+26.03.2024 19:05,"Alėja Tvirtovės 79, Kaunas LT-50154",4.7,0.0,0.0,0.0,0.0,€,Bolt Payment,26.03.2024 19:18,5.3,Finished
+26.03.2024 18:59,"K. Petrausko g 17, Kaunas 44162",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,26.03.2024 19:04,1.75,Finished
+26.03.2024 18:46,"Gatvė Chemijos 15, Kaunas LT-51332",4.9,0.0,0.0,0.0,0.0,€,Bolt Payment,26.03.2024 18:58,5.16,Finished
+26.03.2024 18:22,"P. Višinskio g 15, Kaunas",7.4,0.0,0.0,0.0,0.0,€,Bolt Payment,26.03.2024 18:44,5.52,Finished
+26.03.2024 18:00,"Krantinė Neries 20, Kaunas",3.9,0.0,0.0,0.0,0.0,€,Cash,26.03.2024 18:13,2.94,Finished
+26.03.2024 02:34,"Antanavos g 22, Kaunas",4.3,0.0,0.0,0.0,0.0,€,Cash,26.03.2024 02:49,4.94,Finished
+25.03.2024 18:46,"Neries g 22, Kaunas",6.5,0.0,0.0,0.0,0.0,€,Bolt Payment,25.03.2024 19:07,8.64,Finished
+25.03.2024 18:09,"Vytauto pr 29, Kaunas 44352",7.3,0.0,0.0,0.0,0.0,€,Bolt Payment,25.03.2024 18:29,10.68,Finished
+25.03.2024 17:53,"Gatvė Kometų 10, Kaunas LT-46262",5.5,0.0,0.0,0.0,0.0,€,Bolt Payment,25.03.2024 18:07,6.15,Finished
+25.03.2024 17:34,"Kovo 11-osios gatvė 84, Kaunas 50446",6.5,0.0,0.0,0.0,0.5,€,Bolt Payment,25.03.2024 17:52,7.93,Finished
+25.03.2024 16:58,"Gatvė Varnių 38, Kaunas LT-48387",5.9,0.0,0.0,0.0,0.0,€,Bolt Payment,25.03.2024 17:19,6.59,Finished
+24.03.2024 04:22,"Karaliaus Mindaugo Prospektas 30, Kaunas 44300",14.2,0.0,0.0,0.0,0.0,€,Bolt Payment,24.03.2024 04:45,13.5,Finished
+24.03.2024 03:40,"Rotušės a 28, Kaunas 44279",10.5,0.0,0.0,0.0,0.0,€,Cash,24.03.2024 03:53,5.76,Finished
+24.03.2024 03:06,"Gatvė Girios 39B, Kaunas LT-54307",7.3,0.0,0.0,0.0,0.0,€,Bolt Payment,24.03.2024 03:25,7.97,Finished
+24.03.2024 02:51,Prospektas Vytauto 28,11.4,0.0,0.0,0.0,0.0,€,Cash,24.03.2024 03:06,11.64,Finished
+24.03.2024 02:24,"Prospektas Vytauto 28, Kaunas LT-44328",11.4,0.0,0.0,0.0,0.0,€,Cash,24.03.2024 02:48,12.81,Finished
+24.03.2024 02:15,"Palangos g 9, Kaunas 44287",3.3,0.0,0.0,0.0,0.0,€,Bolt Payment,24.03.2024 02:24,2.98,Finished
+23.03.2024 22:32,"Šv. Gertrūdos g 39A, Каунас 44283",12.1,0.0,0.0,0.0,0.0,€,Bolt Payment,23.03.2024 22:58,6.81,Finished
+23.03.2024 22:13,"Girios g 2, Kaunas",9.0,0.0,0.0,0.0,0.0,€,Cash,23.03.2024 22:36,9.59,Finished
+23.03.2024 21:59,"Partizanų g 104, Kaunas",8.8,0.0,0.0,0.0,0.0,€,Bolt Payment,23.03.2024 22:15,12.22,Finished
+23.03.2024 21:43,"Gatvė A. Strazdo 28, Kaunas LT-48476",6.6,0.0,0.0,0.0,0.0,€,Bolt Payment,23.03.2024 21:56,8.61,Finished
+23.03.2024 02:03,"Gatvė I. Štaro 1, Kaunas LT-47484",3.2,0.0,0.0,0.0,0.0,€,Bolt Payment,23.03.2024 02:11,3.05,Finished
+23.03.2024 01:33,"Rotušės a 26A, Kaunas 44279",18.3,0.0,0.0,0.0,0.0,€,Bolt Payment,23.03.2024 01:55,12.88,Finished
+23.03.2024 01:13,"Gaižiūnų g 5, Kaunas 50129",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,23.03.2024 01:22,2.8,Finished
+23.03.2024 01:02,"Sukilėlių pr 98, Kaunas 49320",4.6,0.0,0.0,0.0,0.0,€,Bolt Payment,23.03.2024 01:12,4.21,Finished
+23.03.2024 00:51,"Gatvė Partizanų 114, Kaunas LT-50342",5.1,0.0,0.0,0.0,0.0,€,Bolt Payment,23.03.2024 01:03,4.79,Finished
+23.03.2024 00:24,"V. Krėvės pr 98A, Kaunas",5.2,0.0,0.0,0.0,0.0,€,Cash,23.03.2024 00:44,3.43,Finished
+23.03.2024 00:02,"Nuogas, Kaunas",12.0,0.0,0.0,0.0,1.0,€,Bolt Payment,23.03.2024 00:22,8.79,Finished
+22.03.2024 23:39,"P. Lukšio g 60, Kaunas 49349",4.0,0.0,0.0,0.0,0.0,€,Cash,22.03.2024 23:48,4.41,Finished
+22.03.2024 23:25,"Kulvos g 33, Kaunas",5.3,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 23:38,5.53,Finished
+22.03.2024 20:15,"Vilties g 2, Kaunas 46327",4.9,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 20:31,4.29,Finished
+22.03.2024 19:31,"Pikulo g 90, Kaunas 48435",16.7,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 20:06,6.67,Finished
+22.03.2024 19:11,"Muitinės g 1, Kaunas 44280",4.0,0.0,0.0,0.0,0.0,€,Cash,22.03.2024 19:28,1.71,Finished
+22.03.2024 18:43,"Panemunės g 30, Kaunas",7.6,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 19:08,8.9,Finished
+22.03.2024 17:58,Gatvė Drobės 29L,6.8,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 18:14,6.32,Finished
+22.03.2024 17:42,"Gatvė Demokratų 40, Kaunas LT-48411",6.2,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 17:59,5.11,Finished
+22.03.2024 01:49,"Alėja Laisvės 118, Kauen LT-44253",4.2,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 01:57,4.12,Finished
+22.03.2024 01:37,"Savanorių pr 196, Kaunas",3.4,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 01:42,3.52,Finished
+22.03.2024 01:09,"Savanorių pr 266, Kaunas 50122",8.3,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 01:23,10.86,Finished
+22.03.2024 01:04,"Gatvė Miško 16, Kaunas LT-44321",3.2,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 01:10,2.46,Finished
+22.03.2024 00:34,"Vilniaus g 13, Kaunas 44283",4.0,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 00:45,2.53,Finished
+22.03.2024 00:20,"Baltų pr 12, Kaunas 48190",2.9,0.0,0.0,0.0,0.0,€,Bolt Payment,22.03.2024 00:28,1.93,Finished
+21.03.2024 22:47,"Gatvė Girios 4, Kaunas LT-54307",7.7,0.0,0.0,0.0,0.0,€,Cash,21.03.2024 23:14,7.47,Finished
+21.03.2024 22:04,"Forum cinemas, Akropolis",18.4,0.0,0.0,0.0,0.0,€,Bolt Payment,21.03.2024 22:38,16.51,Finished
+21.03.2024 21:51,"Kęstučio g 55, Kaunas 44306",4.4,0.0,0.0,0.0,1.0,€,Bolt Payment,21.03.2024 22:03,4.34,Finished
+21.03.2024 21:05,"Panerių g 78, Каунас 48314",4.2,0.0,0.0,0.0,1.0,€,Bolt Payment,21.03.2024 21:18,3.49,Finished
+21.03.2024 20:59,"Gatvė Panerių 132, Kaunas LT-48425",3.2,0.0,0.0,0.0,0.0,€,Cash,21.03.2024 21:06,3.22,Finished
+21.03.2024 20:24,"Plentas Islandijos 9, Kaunas LT-49179",5.2,0.0,0.0,0.0,0.0,€,Bolt Payment,21.03.2024 20:34,4.91,Finished
+21.03.2024 19:57,"Gatvė A. Ir J. Vokietaičių 1, Kaunas LT-50181",5.1,0.0,0.0,0.0,0.0,€,Bolt Payment,21.03.2024 20:13,5.38,Finished
+21.03.2024 19:43,"Gatvė K. Petrausko 30, Kaunas LT-44162",3.1,0.0,0.0,0.0,0.0,€,Bolt Payment,21.03.2024 19:50,2.01,Finished
+21.03.2024 19:08,"Prancūzų g 159, Kaunas",6.4,0.0,0.0,0.0,0.0,€,Bolt Payment,21.03.2024 19:28,4.36,Finished
+21.03.2024 18:35,"Gatvė Vytenio 10, Κάουνας LT-48421",5.4,0.0,0.0,0.0,0.0,€,Bolt Payment,21.03.2024 18:52,5.49,Finished
